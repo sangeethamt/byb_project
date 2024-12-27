@@ -23,7 +23,7 @@ A simple Python program that prints "Git is Awesome!" to the console. This is an
 
 ## Project Structure
 [byb_project](byb_project/)/  
-├── [README.md](readme.md)  
+├── [README.md](README.md)  
 ├── [helloWorld.py](helloWorld.py)
 
 ## Contributing
