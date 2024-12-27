@@ -1,7 +1,7 @@
 # HelloWorld
 
 ## Description
-A simple Python program that prints "Git is Awesome!" to the console. This serves as an introductory example for learning Python programming and Git version control.
+A simple Python program that prints "Git is Awesome!" to the console. This is an introductory example of Python programming and Git version control.
 
 ## Prerequisites
 - Python(latest version) installed on your machine
@@ -21,10 +21,10 @@ A simple Python program that prints "Git is Awesome!" to the console. This serve
    ```bash
    python helloworld.py
 
-## Project Sturcture
-helloworld/  
+## Project Structure
+[byb_project](byb_project/)/  
 ├── [README.md](readme.md)  
-├── [helloworld.py](helloworld.py)
+├── [helloWorld.py](helloWorld.py)
 
 ## Contributing
 1. Fork the Repository:
