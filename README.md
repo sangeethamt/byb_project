@@ -22,7 +22,7 @@ A simple Python program that prints "Git is Awesome!" to the console. This is an
    python helloworld.py
 
 ## Project Structure
-[byb_project](byb_project/)/  
+[byb_project/](https://github.com/sangeethamt/byb_project/tree/main)   
 ├── [README.md](README.md)  
 ├── [helloWorld.py](helloWorld.py)
 
